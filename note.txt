@@ -1,0 +1,14 @@
+Packages 
+    1. React router dom
+    2. React bootstrap bootstrap
+    3. react-icons
+    4. axios
+
+folder structure
+    1. folders for admin and users (components, pages, styles)
+
+global class variables
+
+Create context
+
+set up router
